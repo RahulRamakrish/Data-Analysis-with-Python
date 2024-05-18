@@ -2,8 +2,6 @@
 
 This is the boilerplate for the Demographic Data Analyzer project. 
 
-
-## Demographic Data Analyzer
 This project involves analyzing demographic data from the 1994 Census database using Pandas. The analysis answers various questions about the data, such as the distribution of races, average age of men, and income distribution based on education level.
 
 ## Project Description
