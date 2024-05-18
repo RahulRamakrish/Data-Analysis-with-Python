@@ -45,14 +45,14 @@ Steps:
 * Group and reformat the data to split it by the cardio variable.
 * Create a seaborn catplot to show the value counts of the categorical features, split by the cardio value.
 
-5. Clean Data
+### 5. Clean Data
 The data is cleaned by filtering out the following patient segments:
 
 * Diastolic pressure is higher than systolic pressure.
 * Height is less than the 2.5th percentile or more than the 97.5th percentile.
 * Weight is less than the 2.5th percentile or more than the 97.5th percentile.
 
-6. Draw Heat Map
+### 6. Draw Heat Map
 A heat map is drawn to show the correlation matrix of the dataset. The upper triangle of the correlation matrix is masked.
 
 Steps:
