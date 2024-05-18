@@ -35,7 +35,7 @@ One line predicting sea level rise through 2050 using data from 1880 to the pres
 A second line predicting sea level rise through 2050 using data from 2000 to the present.
 These visualizations help in understanding the trend in sea level changes and provide a basis for future predictions.
 
-Acknowledgments
+## Acknowledgments
 * US Environmental Protection Agency (EPA)
 * CSIRO (2015)
 * NOAA (2015)
