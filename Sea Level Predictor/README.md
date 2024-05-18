@@ -2,7 +2,6 @@
 
 This is the boilerplate for the Sea Level Predictor project.
 
-## Project Description
 The Sea Level Predictor project aims to analyze historical data of global average sea level changes and predict future sea level rise using linear regression. The analysis utilizes data from the US Environmental Protection Agency (EPA), which includes global average absolute sea level changes from 1880 to 2014. The project involves creating visualizations to understand the historical trends and making predictions about future sea level changes through the year 2050.
 
 ## Data Source
