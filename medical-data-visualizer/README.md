@@ -21,22 +21,22 @@ The dataset contains the following features:
 * Cardiovascular Disease (cardio): Presence or absence of cardiovascular disease (binary)
 
 ## Project Tasks
-1. ### Import Data
+### 1. Import Data
 The data is imported from medical_examination.csv and assigned to the df variable.
 
-2. ### Add Overweight Column
+### 2. Add Overweight Column
 An overweight column is added to the dataset. The Body Mass Index (BMI) is calculated using the formula:
 BMI = weight (kg)/(height (m))2​
  
 If the BMI is greater than 25, the person is considered overweight (value 1), otherwise not overweight (value 0).
 
-3. ### Normalize Data
+### 3. Normalize Data
 The data is normalized by making 0 always good and 1 always bad:
 
 * Cholesterol and glucose values of 1 are set to 0 (normal).
 * Cholesterol and glucose values greater than 1 are set to 1 (above normal).
 
-4. ### Draw Categorical Plot
+### 4. Draw Categorical Plot
 A categorical plot is drawn to show the counts of good and bad outcomes for the cholesterol, glucose, alcohol intake, physical activity, and smoking variables for patients with and without cardiovascular disease.
 
 Steps:
