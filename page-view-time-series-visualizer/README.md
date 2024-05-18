@@ -1,7 +1,7 @@
 # Page View Time Series Visualizer
 
 This is the boilerplate for the Page View Time Series Visualizer project. 
-## Project Description
+
 The goal of this project is to visualize the daily page views of the FreeCodeCamp.org forum over a specified period. The visualizations help in understanding the trends and patterns in the data. The project includes:
 
 Line Plot: Displays daily page views over time.
