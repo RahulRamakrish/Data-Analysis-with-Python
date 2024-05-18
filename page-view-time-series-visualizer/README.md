@@ -4,9 +4,9 @@ This is the boilerplate for the Page View Time Series Visualizer project.
 
 The goal of this project is to visualize the daily page views of the FreeCodeCamp.org forum over a specified period. The visualizations help in understanding the trends and patterns in the data. The project includes:
 
-Line Plot: Displays daily page views over time.
-Bar Plot: Shows average daily page views for each month, grouped by year.
-Box Plots: Illustrate the distribution of page views within a given year and month, highlighting trends and seasonality.
+* Line Plot: Displays daily page views over time.
+* Bar Plot: Shows average daily page views for each month, grouped by year.
+* Box Plots: Illustrate the distribution of page views within a given year and month, highlighting trends and seasonality.
 
 ## Data Cleaning
 The dataset fcc-forum-pageviews.csv is cleaned by removing days with page views in the top 2.5% and bottom 2.5% to eliminate outliers. The cleaned data is then used to create the visualizations.
